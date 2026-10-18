@@ -1,0 +1,37 @@
+{
+  "description": "Selected original and generated example files; SHA-256 checksums.",
+  "files": [
+    {
+      "file": "examples/cat/before.jpg",
+      "sha256": "c9ddf0dd87a76d0bdacf668e171ca4c718197001f9a521fb42ac2f8abf61dd26"
+    },
+    {
+      "file": "examples/cat/after.png",
+      "sha256": "563f4b799f7de909824a5e1e80b4b29d249be0e52ef524daa1fad88f4192001f"
+    },
+    {
+      "file": "examples/train/before.jpg",
+      "sha256": "a82c2656201ec3de9ac58020b077c3162fb87c5bfe156aa32eacde2bcc5425db"
+    },
+    {
+      "file": "examples/train/after.png",
+      "sha256": "75ad97f5e790fea4237f51eb77c1e9e760f34f6c1f26f0ccf328007579f3aa48"
+    },
+    {
+      "file": "examples/vessel/before.jpg",
+      "sha256": "9d1fa8a1c449167ab165c57d81ea986d499eb2522520a2faba21a96915279803"
+    },
+    {
+      "file": "examples/vessel/after.png",
+      "sha256": "9e1cd1bb7a08e9291f05eb498231724d42015324f1a7a00cc20391eadf7a2d9d"
+    },
+    {
+      "file": "examples/art-nouveau/before.png",
+      "sha256": "300f33f2b3103bd7542f270da18fc81400854fa4006eb58675cffe983830ac98"
+    },
+    {
+      "file": "examples/art-nouveau/after.png",
+      "sha256": "b2d35619178c5809d827509cda6ba40c36b3d8507a6498fdb895fbd65b7d36d8"
+    }
+  ]
+}

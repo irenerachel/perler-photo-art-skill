@@ -1,0 +1,4 @@
+interface:
+  display_name: "拼豆艺术化转绘"
+  short_description: "把照片或插画转为圆孔拼豆主体与卡通背景，支持构图美化及像素海报"
+  default_prompt: "使用 $perler-photo-art 将这张图片转为拼豆艺术纯图，主体遵守单层圆孔拼豆逻辑，背景卡通化，并适当优化构图。"
