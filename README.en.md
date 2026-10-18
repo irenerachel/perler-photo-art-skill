@@ -62,6 +62,10 @@ Retains the elongated seated pose, golden curls, coral dress and circular orname
 
 A and B cover the entire content image without overlap. C is an optional overlay. Define these regions again for each new image, and include their object lists and boundaries in the actual image-generation prompt. Coordinate color, composition and lighting across the different materials.
 
+### Recommended tool
+
+We recommend **GPT Image 2.5 in Codex** for image generation and editing.
+
 ### Installation and use
 
 1. Download and extract the repository ZIP. Rename the extracted folder to `perler-photo-art`.
